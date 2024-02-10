@@ -1,7 +1,5 @@
 MongoDB Task
 
-https://github.com/rvsp/database/blob/master/mongodb/product.json
-
 Find all the information about each products?
 Answer: db.products.find({}) (or) db.products.find()
 
